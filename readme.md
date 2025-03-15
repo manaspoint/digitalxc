@@ -24,8 +24,8 @@ Runs using npm start.
 
 Clone the repository:
 
-git clone https://github.com/your-repo/secret-santa.git
-cd secret-santa
+git clone https://github.com/manaspoint/digitalxc.git
+cd digitalxc
 
 Install dependencies:
 
