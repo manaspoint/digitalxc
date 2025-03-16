@@ -5,6 +5,4 @@ const router = express.Router();
 const gameController = require("../controller/game.controller");
 
 router.post("/select-child", upload, validator.validateFile, gameController.selectchild);
-router.get("/");
-
 module.exports = router;
